@@ -3,7 +3,7 @@
 **Developer**: KunilArch  
 **Current Version**: PyOS 2.0.1 Beta 
 **Stable current version**: PyOS 1.0.3
-**License**: Open Source  
+**License**: Open Source up until 1.0.3 
 **Platform**: Windows, Android (via Pydroid), Linux-compatible (terminal-based)
 
 ---
