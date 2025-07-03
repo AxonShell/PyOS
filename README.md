@@ -35,6 +35,16 @@ PyOS is a lightweight Python-based terminal-style operating system simulator. Bu
 - Improved game and editor stability
 - Social links and "cmd" app (with version, password, and reset)
 
+### PyOS 1.0.4
+- Fully cleaned-up version with no ANSI color codes
+- Bug fixes and corrected RAM/Disk reporting
+- Redesigned app listing and clearer interface
+- Added social media section
+- Version, architecture, and build info printed in System Info
+- Terminal made more stable across platforms
+- Game and editor bugs resolved
+- Internally reorganized for easier future expansion
+
 ### PyOS Lite
 - No external libraries: psutil, platform, and others removed
 - Reduced feature set for ultra-compatibility
