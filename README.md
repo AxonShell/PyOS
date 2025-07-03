@@ -67,7 +67,7 @@ PyOS is a lightweight Python-based terminal-style operating system simulator. Bu
 - No external dependencies required (except optional modules like psutil)
 
 
-
+ 
 ## Disclaimer
 
 This project is for educational and entertainment purposes. It does not replace a real OS but simulates one through Python scripting.
