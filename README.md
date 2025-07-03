@@ -55,7 +55,6 @@ PyOS is a lightweight Python-based terminal-style operating system simulator. Bu
 - More  accurate results for system details: OS, CPU, GPU, RAM, Disk
 - Auto-detects OS type (Windows, Linux, Android)
 - user_info.txt auto-updates missing values
-  - advanced features: true/false
 - All major apps retained and enhanced to be better
 - Cleaner code organization
 
